@@ -1,5 +1,6 @@
 *{
    box-sizing: border-box;
+   margin: 0 auto;
 }
 body{
    font-family: 'Roboto', sans-serif;
@@ -903,7 +904,6 @@ body{
    }
    .block-1{
       display: flex;
-      border: #000000 solid 1px;
       max-width: 700px;
       height: 400px;
    }
